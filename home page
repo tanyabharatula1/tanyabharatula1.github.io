@@ -7,7 +7,7 @@
         
         <body>
         	<!-- overall container-->
-            <div id="container" style="width:500px">
+            <div id="container" style="width:1000px">
             
             <!--Title Subcontainer-->
             <div id="header" style="backgroud-color:#F75D59;">
@@ -16,9 +16,9 @@
             
             <!--Left side menu subcontainer -->
             <div id="menu" style="background-color:#F75D59
-;height:200px;width:100px;Float:left;">
-            	<b>menu</b><br>
-                About me <br>
+;height:500px;width:100px;Float:left;">
+            	<b>MENU</b><br>
+                About Me <br>
                 scratch <br>
               <br>
                 More stuff
