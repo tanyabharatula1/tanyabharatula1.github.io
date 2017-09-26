@@ -1,0 +1,34 @@
+<!DOCTYPE html>  <!-- set the version for browsers-->
+<html>
+	<!--Meta data-->
+    <head>
+    	<title> Layout3 </title>
+        </head>
+        
+        <body>
+        	<!-- overall container-->
+            <div id="container" style="width:500px">
+            
+            <!--Title Subcontainer-->
+            <div id="header" style="backgroud-color:#F75D59;">
+            	<h1 style="margin-bottom:0;">ECS WEBSITE PROJECT
+            </div> <!-- End Title container-->
+            
+            <!--Left side menu subcontainer -->
+            <div id="menu" style="background-color:#F75D59
+;height:200px;width:100px;Float:left;">
+            	<b>menu</b><br>
+                About me <br>
+                scratch <br>
+              <br>
+                More stuff
+            </div> <!--End menu container-->
+            
+            <!--Page footer subcontainer-->
+            <div id="footer" style="background-color:#59F2F7;clear:both;text-align:center:">
+            	Tanya Bharatula
+            </div> <!--end footer container-->
+        </div> <!--end overall container-->
+    </body>
+<html>
+            
